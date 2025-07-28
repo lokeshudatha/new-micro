@@ -1,4 +1,4 @@
 @Library("lokesh_libraries") _
 firstPipeline(
-loki_app = "loki_dep"
+loki_app = "checkout-ms"
 )
